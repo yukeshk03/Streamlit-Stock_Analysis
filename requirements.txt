@@ -50,7 +50,7 @@ nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
 nest-asyncio==1.6.0
-numpy==1.23.5  # You might want to pin the version that works
+numpy>=1.26.0
 packaging==24.1
 pandas==2.2.3
 pandocfilters==1.5.1
